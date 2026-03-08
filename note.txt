@@ -1,0 +1,19 @@
+flutter --version
+flutter devices
+flutter doctor
+flutter emulators
+
+flutter create .
+flutter pub get
+
+
+flutter emulators --launch Medium_Phone_API_36.1
+flutter run
+
+Codemagic or GitHub Actions
+
+.ipa file
+flutter build apk --release
+.apk file
+
+https://frontend-service-682124901351.asia-south1.run.app/
